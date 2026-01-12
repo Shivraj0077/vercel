@@ -6,7 +6,6 @@ A Next.js application deployed on Vercel that intelligently handles both static 
 
 <div align="center">
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/yourusername/vercel-autodeploy)
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 
 **[Features](#features) • [How It Works](#how-it-works) • [Project Structure](#project-structure) • [Deployment](#deployment)**
